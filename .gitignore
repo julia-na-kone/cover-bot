@@ -1,0 +1,5 @@
+config.py
+template.png
+font.ttf
+__pycache__/
+*.pyc
